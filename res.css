@@ -1,0 +1,70 @@
+.h {
+    color: #183b56;
+    font-size: 28px;
+    font-family: Roboto;
+    font-weight: 600;
+}
+
+.bg-img {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    background-size: cover;
+    height: 350px;
+    width: 100%;
+    border-radius: 12px;
+    font-family: Roboto;
+}
+
+.bg-hed {
+    font-size: 26px;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.bg-dis {
+    font-size: 12px;
+    color: #ffffff;
+    font-weight: 400;
+}
+
+.org-btn {
+    border-radius: 18px;
+    background-color: white;
+    font-size: 12px;
+}
+
+.bg-img2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    background-size: cover;
+    height: 350px;
+    width: 100%;
+    border-radius: 12px;
+    font-family: Roboto;
+}
+
+.a-link {
+    color: orange;
+    font-size: 14px;
+    font-family: Roboto;
+    font-weight: 600;
+}
+
+.model-text {
+    color: #183b56;
+    font-size: 12px;
+    font-family: Roboto;
+}
+
+.span-highlight {
+    font-weight: bold;
+    color: #183b56;
+    font-size: 14px;
+}
+
+.ul-list {
+    list-style-type: none;
+}
+
+#bt-color {
+    color: #183b56;
+    font-size: 12px:
+}
